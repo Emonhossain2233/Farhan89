@@ -1,0 +1,4 @@
+apt update 
+git clone https:http://github.com/Emonhossain2233/Farhan89
+cd Farhan89 
+python Farhan89-VAI143_wife.py
